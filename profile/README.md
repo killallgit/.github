@@ -1,15 +1,15 @@
 # killallgit
 
-We build practical tools and thoughtful software for teams that value clarity, momentum, and durable results.
+We make software and occasionally delete the part that was “definitely safe to remove.”
 
-Our work brings together product thinking, engineering discipline, and a bias toward simple solutions that make complex work easier to manage.
+This is a collection of projects, experiments, and evidence that version control was a wise invention.
 
-## What we value
+## Our values
 
-- Clear problems, well-defined outcomes, and dependable execution.
-- Open collaboration and steady improvement.
-- Technology that earns trust through usefulness and care.
+- Shipping useful things before they become strategy decks.
+- Small, understandable solutions with appropriately large commit messages.
+- Asking “is this in production?” early enough to matter.
 
-## Working with us
+## Contributing
 
-Explore our public projects, follow the work that interests you, and open an issue or discussion when you have a question or idea to share.
+Take a look around. Open an issue if something is broken, a discussion if you have an idea, or a pull request if you enjoy finding out which CI job has opinions about it.
